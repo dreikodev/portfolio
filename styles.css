@@ -11,3 +11,10 @@ h2{
     color: darkred;
     text-align: left;
 }
+
+.profile{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000814;
+    font-size: 20px;
+}
