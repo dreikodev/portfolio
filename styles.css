@@ -30,3 +30,32 @@ nav{
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.bi-linkedin{
+    color: blue;
+    font-size: 30px;
+    padding: 12px;
+    margin: 12px;
+}
+
+.bi-envelope{
+    color: black;
+    font-size: 30px;
+    padding: 12px;
+    margin: 12px;
+}
+
+.bi-github{
+    color: black;
+    font-size: 30px;
+    padding: 12px;
+    margin: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
